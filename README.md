@@ -1,6 +1,8 @@
+<img src="Ss/splah.png" width="100px">
+
 # Grado Edu
 
-Designed android application for startup that helps students connect to their
+Android application for startup that helps students connect to their
 peers to help strengthen their skills in various domains. Also, Provides platform to young teachers to market and  stream their courses.
 
 **The app is under development stage and would be going live very soon.**
