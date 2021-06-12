@@ -20,3 +20,12 @@ peers to help strengthen their skills in various domains. Also, Provides platfor
 ## Screenshots
 <img src="Ss/image01.png" width="200px"> <img src="Ss/image02.png" width="200px"> <img src="Ss/image03.png" width="200px">   
 <img src="Ss/image04.png" width="200px"> <img src="Ss/image05.png" width="200px">   
+
+
+## License
+
+MIT License
+
+Copyright (c) 2021 Shashank Vaish
+
+  
