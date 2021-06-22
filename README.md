@@ -19,8 +19,8 @@ For more information about our startup visit [grado.in](https://grado.in/)**
 
   
 ## Screenshots
-<img src="Ss/image01.png" width="200px"> <img src="Ss/image02.png" width="200px"> <img src="Ss/image03.png" width="200px">   
-<img src="Ss/image04.png" width="200px"> <img src="Ss/image05.png" width="200px">   
+ <img src="Ss/image02.png" width="200px"> <img src="Ss/home_ss.jpeg" width="200px">   
+<img src="Ss/courses_ss.jpeg" width="200px"> <img src="Ss/profile_ss.jpeg" width="200px">   
 
 
 ## License
