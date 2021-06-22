@@ -15,6 +15,8 @@ For more information about our startup visit [grado.in](https://grado.in/)**
 
 **Android Toolkit:** Android Studio, Android SDK
 
+**Database:** Firebase
+
 **Crash/product analytics** Firebase analytics
 
   
