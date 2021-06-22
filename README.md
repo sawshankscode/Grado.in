@@ -5,7 +5,8 @@
 Android application for startup that helps students connect to their
 peers to help strengthen their skills in various domains. Also, Provides platform to young teachers to market and  stream their courses.
 
-**The app is under development stage and would be going live very soon.**
+**The app is under development stage and would be going live very soon.<br>
+For more information about our startup visit [grado.in](www.grado.in)**
 
 
 ## Tech Stack
